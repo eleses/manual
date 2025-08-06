@@ -38,7 +38,8 @@ Here is an example of the use of the _vps_ opcode. It uses the file [vps.csd](..
 
 ## See also
 
-[Phase Distortion](../sigmod/wavshape.md)
+* [Phase Distortion](../sigmod/wavshape.md)
+* [bpf](../opcodes/bpf.md)
 
 ## Credits
 
