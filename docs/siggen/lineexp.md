@@ -37,4 +37,5 @@ The opcodes that generate linear or exponential curves or segments are:
 * [transegr](../opcodes/transegr.md)
 * [trigexpseg](../opcodes/trigexpseg.md)
 * [triglinseg](../opcodes/triglinseg.md)
+* [vps](../opcodes/vps.md)
 * [xyscale](../opcodes/xyscale.md)
